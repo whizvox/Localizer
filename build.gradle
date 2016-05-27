@@ -1,0 +1,12 @@
+group 'me.whizvox.localizer'
+version '1.0-DEV'
+
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+}
